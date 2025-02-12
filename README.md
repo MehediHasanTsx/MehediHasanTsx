@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi 👋! I'm MEHEDI HASAN
+<hr>
+<pre>
+ a web developer passionate about building clean, responsive and interactive websites. I focus on performance, aesthetiics, and user-friendly design.
+</pre>
  
 **MehediHasanTsx/MehediHasanTsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
