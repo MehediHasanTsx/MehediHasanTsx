@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Hi+I'm+Mehedi+Hasan;Web+Developer+%7C+Clean+Coder ;Hungry+to+learn+%7C+Tech+Explorer;Let's+Build+Something+Awesome!" alt="Typing SVG" />
 </p>
 
-
-### <p align="center">
+---
+<p align="center">
   A passionate web developer who loves transforming ideas into elegant, functional, and blazing-fast web applications. I thrive on writing clean, maintainable code, optimizing performance, and exploring the latest web technologies.
 </p>
 
