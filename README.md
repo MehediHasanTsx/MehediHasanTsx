@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  A passionate web developer who loves transforming ideas into elegant, functional, and blazing-fast web applications. I thrive on writing clean, maintainable code, optimizing performance, and exploring the latest web technologies.
+  A passionate frontend developer who loves transforming ideas into elegant, functional, and blazing-fast web applications. I thrive on writing clean, maintainable code, optimizing performance, and exploring the latest web technologies.
 </p>
 
 
