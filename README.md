@@ -24,22 +24,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasanTsx&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehediHasanTsx&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MehediHasanTsx&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-</p>
-
-
 ## 🔗 Connect with Me
 
 <p align="left">
