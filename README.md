@@ -24,6 +24,13 @@
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white)
 
 
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehediHasanTsx&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehediHasanTsx&theme=radical" />
+</p>
+
 
 ## 🔗 Connect with Me
 
