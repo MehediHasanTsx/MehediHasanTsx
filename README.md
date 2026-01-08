@@ -31,77 +31,46 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehediHasanTsx&theme=radical" />
 </p>
 
-<h2 align="center">🚀 Featured Client Projects (Webflow)</h2>
-
-<p align="center">
-  <em>Client projects built using Webflow. Source code is private due to client agreements.</em>
-</p>
+<h3 align="center">🚀 Featured Webflow Client Projects</h3>
 
 <table align="center" width="100%" style="border-collapse:collapse;">
-  <thead>
-    <tr>
-      <th align="left" style="padding:12px;border:1px solid #30363d;">Project</th>
-      <th align="left" style="padding:12px;border:1px solid #30363d;">Description</th>
-      <th align="left" style="padding:12px;border:1px solid #30363d;">Tech</th>
-      <th align="center" style="padding:12px;border:1px solid #30363d;">Live</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:12px;border:1px solid #30363d;"><b>Gotzky Immobilien</b></td>
-      <td style="padding:12px;border:1px solid #30363d;">Real estate website with modern UI & responsive layout</td>
-      <td style="padding:12px;border:1px solid #30363d;">Webflow, CMS</td>
-      <td align="center" style="padding:12px;border:1px solid #30363d;"><a href="https://gotzky-immobilien.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px;border:1px solid #30363d;"><b>VRMD</b></td>
-      <td style="padding:12px;border:1px solid #30363d;">Corporate website focused on performance & clarity</td>
-      <td style="padding:12px;border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px;border:1px solid #30363d;"><a href="https://www.vrmd.com/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px;border:1px solid #30363d;"><b>EVIOE</b></td>
-      <td style="padding:12px;border:1px solid #30363d;">Startup landing page with animations</td>
-      <td style="padding:12px;border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px;border:1px solid #30363d;"><a href="https://evioe.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px;border:1px solid #30363d;"><b>Chester Step Test</b></td>
-      <td style="padding:12px;border:1px solid #30363d;">Healthcare UI with form-based interaction</td>
-      <td style="padding:12px;border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px;border:1px solid #30363d;"><a href="https://chester-step-test-2bb889.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px;border:1px solid #30363d;"><b>Clif Dunn</b></td>
-      <td style="padding:12px;border:1px solid #30363d;">Personal branding website</td>
-      <td style="padding:12px;border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px;border:1px solid #30363d;"><a href="https://clif-dunn.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px;border:1px solid #30363d;"><b>Are U Saved</b></td>
-      <td style="padding:12px;border:1px solid #30363d;">Campaign website with clear CTA</td>
-      <td style="padding:12px;border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px;border:1px solid #30363d;"><a href="https://areusaved.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px;border:1px solid #30363d;"><b>Bombe Interior</b></td>
-      <td style="padding:12px;border:1px solid #30363d;">Interior design collection showcase</td>
-      <td style="padding:12px;border:1px solid #30363d;">Webflow, CMS</td>
-      <td align="center" style="padding:12px;border:1px solid #30363d;"><a href="https://www.bombeinterior.com/collection">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px;border:1px solid #30363d;"><b>Advanced</b></td>
-      <td style="padding:12px;border:1px solid #30363d;">Business landing page</td>
-      <td style="padding:12px;border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px;border:1px solid #30363d;"><a href="https://advanced-bfd8d4.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px;border:1px solid #30363d;"><b>Moonstone Dental</b></td>
-      <td style="padding:12px;border:1px solid #30363d;">Healthcare website with professional branding</td>
-      <td style="padding:12px;border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px;border:1px solid #30363d;"><a href="https://www.moonstonedental.com/">Visit</a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <th style="padding:10px;border:1px solid #30363d;">Project</th>
+    <th style="padding:10px;border:1px solid #30363d;">Tech</th>
+    <th style="padding:10px;border:1px solid #30363d;">Live</th>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;border:1px solid #30363d;">Gotzky Immobilien</td>
+    <td style="padding:10px;border:1px solid #30363d;">Webflow, CMS, HTML, CSS, JS</td>
+    <td align="center" style="padding:10px;border:1px solid #30363d;">
+      <a href="https://gotzky-immobilien.webflow.io/" target="_blank" rel="noopener noreferrer">Visit</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;border:1px solid #30363d;">VRMD</td>
+    <td style="padding:10px;border:1px solid #30363d;">Webflow, HTML, CSS, JS</td>
+    <td align="center" style="padding:10px;border:1px solid #30363d;">
+      <a href="https://www.vrmd.com/" target="_blank" rel="noopener noreferrer">Visit</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;border:1px solid #30363d;">EVIOE</td>
+    <td style="padding:10px;border:1px solid #30363d;">Webflow, HTML, CSS, JS</td>
+    <td align="center" style="padding:10px;border:1px solid #30363d;">
+      <a href="https://evioe.webflow.io/" target="_blank" rel="noopener noreferrer">Visit</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;border:1px solid #30363d;">Moonstone Dental</td>
+    <td style="padding:10px;border:1px solid #30363d;">Webflow, CMS, HTML, CSS, JS</td>
+    <td align="center" style="padding:10px;border:1px solid #30363d;">
+      <a href="https://www.moonstonedental.com/" target="_blank" rel="noopener noreferrer">Visit</a>
+    </td>
+  </tr>
 </table>
 
 
