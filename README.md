@@ -32,7 +32,7 @@ These are client-based Webflow projects; source code is private due to client ag
 
 | Project | Type | Tech Stack | Key Features | 🌐Explore |
 |--------|------|------------|--------------|-----------|
-| **Gotzky Immobilien** | <a href="https://cozmiq.com/" target="blank"> 🏢 Cozmiq | Webflow · CMS · Animations · SEO · HTML · CSS · JS | Real estate website with modern UI and responsive layout. | <a href="https://gotzky-immobilien.webflow.io/" target="_blank">🔗Preview</a> |
+| **Gotzky Immobilien** | <a href="https://cozmiq.com/" target="_blank"> 🏢 Cozmiq | Webflow · CMS · Animations · SEO · HTML · CSS · JS | Real estate website with modern UI and responsive layout. | <a href="https://gotzky-immobilien.webflow.io/" target="_blank">🔗Preview</a> |
 | **VRMD** | <a href="https://cozmiq.com/" target="_blank"> 🏢 Cozmiq | Webflow · CMS · Animations · SEO · HTML · CSS · JS | Performance-focused advanced healthcare solutions & digital medical innovation with modern UI and responsive design. | <a href="https://www.vrmd.com" target="_blank">🔗Preview</a> |
 | **Finova Pay** | 🧩 Template-Based | Webflow · Animations · SEO | Webflow ecommerce website template with clean design and responsive layout. | <a href="https://finova-pay.webflow.io/" target="_blank">🔗Preview</a> |
 | **Social Splash** | 🤝 Outsourced | Webflow · Animations · SEO · HTML · CSS · JS | Paid ads landing page for eCommerce brands with a modern, responsive UI, optimized for conversions and ROAS growth. | <a href="https://www.social-splash.com/" target="_blank">🔗Preview</a> |
