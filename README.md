@@ -23,6 +23,19 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white)
 
+<h2 align="center">🚀 Featured Webflow Projects</h2>
+
+<p align="center">
+  <em>All projects feature custom HTML, CSS, and JavaScript, along with Webflow CMS, animations, and SEO optimizations.  
+These are client-based Webflow projects; source code is private due to client agreements.</em>
+</p>
+
+| Project | Type | Tech Stack | Key Features | 🌐Explore |
+|--------|------|------------|--------------|-----------|
+| **Gotzky Immobilien** | <a href="https://cozmiq.com/" target="_blank"> 🏢 Cozmiq | Webflow · CMS · Animations · SEO · HTML · CSS · JS | Real estate website with modern UI and responsive layout. | <a href="https://gotzky-immobilien.webflow.io/" target="_blank">🔗Preview</a> |
+| **VRMD** | <a href="https://cozmiq.com/" target="_blank"> 🏢 Cozmiq | Webflow · CMS · Animations · SEO · HTML · CSS · JS | Performance-focused advanced healthcare solutions & digital medical innovation with modern UI and responsive design. | <a href="https://www.vrmd.com" target="_blank">🔗Preview</a> |
+| **Finova Pay** | 🧩 Template-Based | Webflow · Animations · SEO | Webflow ecommerce website template with clean design and responsive layout. | <a href="https://finova-pay.webflow.io/" target="_blank">🔗Preview</a> |
+| **Social Splash** | 🤝 Outsourced | Webflow · Animations · SEO · HTML · CSS · JS | Paid ads landing page for eCommerce brands with a modern, responsive UI, optimized for conversions and ROAS growth. | <a href="https://www.social-splash.com/" target="_blank">🔗Preview</a> |
 
 ## 📊 GitHub Overview
 
@@ -30,79 +43,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehediHasanTsx&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehediHasanTsx&theme=radical" />
 </p>
-
-<h2 align="center">🚀 Featured Client Projects (Webflow)</h2>
-
-<p align="center">
-  <em>Client-based projects built with Webflow. Source code is private due to client agreements.</em>
-</p>
-
-<table align="center" width="100%" style="border-collapse: collapse;">
-  <thead>
-    <tr style="background-color:#0d1117; border-bottom:2px solid #30363d;">
-      <th align="left" style="padding:12px; border:1px solid #30363d;">Project Name</th>
-      <th align="left" style="padding:12px; border:1px solid #30363d;">Key Features</th>
-      <th align="left" style="padding:12px; border:1px solid #30363d;">Tech Stack</th>
-      <th align="center" style="padding:12px; border:1px solid #30363d;">Live</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:12px; border:1px solid #30363d;"><b>Gotzky Immobilien</b></td>
-      <td style="padding:12px; border:1px solid #30363d;">Real estate website, modern UI, responsive layout</td>
-      <td style="padding:12px; border:1px solid #30363d;">Webflow, CMS</td>
-      <td align="center" style="padding:12px; border:1px solid #30363d;"><a href="https://gotzky-immobilien.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border:1px solid #30363d;"><b>VRMD</b></td>
-      <td style="padding:12px; border:1px solid #30363d;">Corporate website, clean & performance-focused</td>
-      <td style="padding:12px; border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px; border:1px solid #30363d;"><a href="https://www.vrmd.com/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border:1px solid #30363d;"><b>EVIOE</b></td>
-      <td style="padding:12px; border:1px solid #30363d;">Startup landing page, animations</td>
-      <td style="padding:12px; border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px; border:1px solid #30363d;"><a href="https://evioe.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border:1px solid #30363d;"><b>Chester Step Test</b></td>
-      <td style="padding:12px; border:1px solid #30363d;">Healthcare UI, form-based interaction</td>
-      <td style="padding:12px; border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px; border:1px solid #30363d;"><a href="https://chester-step-test-2bb889.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border:1px solid #30363d;"><b>Clif Dunn</b></td>
-      <td style="padding:12px; border:1px solid #30363d;">Personal branding website</td>
-      <td style="padding:12px; border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px; border:1px solid #30363d;"><a href="https://clif-dunn.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border:1px solid #30363d;"><b>Are U Saved</b></td>
-      <td style="padding:12px; border:1px solid #30363d;">Campaign site, clear CTA structure</td>
-      <td style="padding:12px; border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px; border:1px solid #30363d;"><a href="https://areusaved.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border:1px solid #30363d;"><b>Bombe Interior</b></td>
-      <td style="padding:12px; border:1px solid #30363d;">Interior design collection showcase</td>
-      <td style="padding:12px; border:1px solid #30363d;">Webflow, CMS</td>
-      <td align="center" style="padding:12px; border:1px solid #30363d;"><a href="https://www.bombeinterior.com/collection">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border:1px solid #30363d;"><b>Advanced</b></td>
-      <td style="padding:12px; border:1px solid #30363d;">Business landing page</td>
-      <td style="padding:12px; border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px; border:1px solid #30363d;"><a href="https://advanced-bfd8d4.webflow.io/">Visit</a></td>
-    </tr>
-    <tr>
-      <td style="padding:12px; border:1px solid #30363d;"><b>Moonstone Dental</b></td>
-      <td style="padding:12px; border:1px solid #30363d;">Healthcare website, professional branding</td>
-      <td style="padding:12px; border:1px solid #30363d;">Webflow</td>
-      <td align="center" style="padding:12px; border:1px solid #30363d;"><a href="https://www.moonstonedental.com/">Visit</a></td>
-    </tr>
-  </tbody>
-</table>
 
 
 ## 🔗 Connect with Me
