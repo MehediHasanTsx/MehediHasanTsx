@@ -37,13 +37,6 @@ These are client-based Webflow projects; source code is private due to client ag
 | **Finova Pay** | 🧩 Template-Based | Webflow · Animations · SEO | Webflow ecommerce website template with clean design and responsive layout. | <a href="https://finova-pay.webflow.io/" target="_blank">🔗Preview</a> |
 | **Social Splash** | 🤝 Outsourced | Webflow · Animations · SEO · HTML · CSS · JS | Paid ads landing page for eCommerce brands with a modern, responsive UI, optimized for conversions and ROAS growth. | <a href="https://www.social-splash.com/" target="_blank">🔗Preview</a> |
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehediHasanTsx&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehediHasanTsx&theme=radical" />
-</p>
-
 
 ## 🔗 Connect with Me
 
