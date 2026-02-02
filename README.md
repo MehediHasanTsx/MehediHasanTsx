@@ -27,7 +27,24 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/MehediHasanTsx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"  height="30"/>
+    <a href="https://github.com/MehediHasanTsx" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+    </a>
+  <a href="https://www.linkedin.com/in/mehedi-hasan-tsx/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.facebook.com/mehedihasantsx" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:mehedi.hasan.tsx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mehedihasantsx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mehedihasantsx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasantsx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mehedihasantsx&icon=0&color=0)](https://visitcount.itsvg.in)
