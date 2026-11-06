@@ -119,9 +119,10 @@ Also: Elementor · Wix · Shopify · On-Page SEO
 
 ---
 
-## 🤝 Let's Connect
 
-I'm always happy to talk about web development, Webflow, and building useful things. Reach out through any of the links above.
+<p align="center">
+  I'm always happy to talk about web development, Webflow, and building useful things. Reach out through any of the links above.
+</p>
 
 <p align="center">
   <em>"Small steps. Big dreams."</em>
