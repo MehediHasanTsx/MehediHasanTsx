@@ -1,50 +1,128 @@
-   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mehedi+Hasan;Future+Developer+%7C+Clean+Coder;Webflow+Design+And+Developer;Hungry+to+learn+%7C+Tech+Explorer;Let's+Build+Something+Awesome!" alt="Typing SVG" />
-</p> 
-
-
----
 <p align="center">
-  A passionate frontend developer who loves transforming ideas into elegant, functional, and blazing-fast web applications. I thrive on writing clean, maintainable code, optimizing performance, and exploring the latest web technologies.<br>
-   Building responsive web experiences with code & Webflow.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Hi,+I'm+Mehedi+Hasan;Webflow+Developer+%26+CMS+Specialist;CSE+Student+%7C+Aspiring+Full-Stack+Engineer;Exploring+AI-Powered+Development;Let's+Build+Something+Awesome!" alt="Typing SVG" />
 </p>
 
-
-## 🚀 Tech Stack
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white)
-
-
-## 🔗 Connect with Me
-
-<p align="left">
-    <a href="https://github.com/MehediHasanTsx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-    </a>
-  <a href="https://www.linkedin.com/in/mehedi-hasan-tsx/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.facebook.com/mehedihasantsx" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
-  </a>
-  <a href="mailto:mehedi.hasan.tsx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
+<p align="center">
+  <a href="https://mehedihasantsx.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mehedi-hasan-tsx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mehedi.hasan.tsx@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/mehedihasantsx"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehedihasantsx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mehedihasantsx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasantsx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mehedihasantsx&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+- 🌐 **Webflow Developer & CMS Specialist** at COZMIQ, building responsive, CMS-driven websites
+- 🎓 **Computer Science & Engineering student** from Bangladesh
+- 🛍️ Experienced with **WordPress, Shopify, and Wix**, including eCommerce builds and on-page SEO
+- ⚛️ Growing into **full-stack development** with React, Next.js, TypeScript, and Node.js
+- 🤖 Exploring **AI-powered development**
+- 🌱 Big believer in **learning by building** real projects instead of relying only on tutorials
+
+---
+
+## 💼 Experience
+
+### Webflow Developer & CMS Specialist — COZMIQ
+
+- Build and customize **Webflow** websites with responsive layouts
+- Structure and manage **CMS** content, collections, and dynamic pages
+- Deliver client sites on **WordPress (Elementor)**, **Wix**, and **Shopify**, including eCommerce development and customization
+- Handle client revisions, ongoing updates, and website optimization
+- Apply **on-page SEO** best practices across projects
+
+---
+
+## 🎓 Education
+
+**Professional Honours in Computer Science & Engineering**
+Dhaka City College · National University, Bangladesh · 25th Batch 
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,java,html,css" alt="Languages" />
+</p>
+
+**Frontend & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
+</p>
+
+**Backend, Data & Runtime**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,postgres,supabase" alt="Backend" />
+</p>
+
+**CMS & Website Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+</p>
+
+Also: Elementor · Wix · Shopify · On-Page SEO
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Tools" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- React and Next.js architecture
+- Backend and database design
+- AI integration and AI-assisted development
+- Strengthening computer science fundamentals and problem solving
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+</p>
+
+### 💻 Languages I Use
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages by commits" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages by repositories" />
+</p>
+
+### ⏰ When I Code
+
+<p align="center">
+  <img width="70%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehediHasanTsx/MehediHasanTsx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehediHasanTsx/MehediHasanTsx/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MehediHasanTsx/MehediHasanTsx/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about web development, Webflow, and building useful things. Reach out through any of the links above.
+
+<p align="center">
+  <em>"Small steps. Big dreams."</em>
+</p>
